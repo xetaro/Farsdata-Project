@@ -148,6 +148,8 @@ fars_map_state <- function(state.num, year) {
 ```{r, echo=TRUE}
 setwd("~/COURSERA/Mastering Software Development in R/Building R packages/Farsdata/data")
 fars_map_state(12, 2013)
+[](https://github.com/xetaro/Farsdata-Project/blob/master/plot_1.png)
 fars_map_state(12, 2015)
+[](https://github.com/xetaro/Farsdata-Project/blob/master/plot_2.png)
 ```
 
